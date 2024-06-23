@@ -3,6 +3,7 @@
   "displayName": "bosc-pear",
   "description": "A Visual Studio Code theme inspired by the colors of a Bosc Pear",
   "version": "0.0.1",
+  "publisher": "memoht",
   "engines": {
     "vscode": "^1.90.0"
   },
