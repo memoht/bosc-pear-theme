@@ -1,0 +1,21 @@
+{
+  "name": "bosc-pear-theme",
+  "displayName": "bosc-pear",
+  "description": "A Visual Studio Code theme inspired by the colors of a Bosc Pear",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bosc Pear",
+        "uiTheme": "vs",
+        "path": "./themes/Bosc Pear-color-theme.json"
+      }
+    ]
+  }
+}
