@@ -14,7 +14,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#592202"
+				"foreground": "#60482b"
 			}
 		},
 		{
@@ -22,7 +22,7 @@
 			"scope": "comment.block.preprocessor",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#e0c8ab"
+				"foreground": "#60482b"
 			}
 		},
 		{
@@ -32,7 +32,7 @@
 				"comment.block.documentation"
 			],
 			"settings": {
-				"foreground": "#e0c8ab"
+				"foreground": "#60482b"
 			}
 		},
 		{
@@ -46,7 +46,7 @@
 			"name": "Operators",
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#433425"
+				"foreground": "#026773"
 			}
 		},
 		{
@@ -56,7 +56,7 @@
 				"storage"
 			],
 			"settings": {
-				"foreground": "#F25D07"
+				"foreground": "#026773"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 				"support.variable"
 			],
 			"settings": {
-				"foreground": "#bc353a"
+				"foreground": "#026773"
 			}
 		},
 		{
@@ -98,7 +98,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#025d68"
+				"foreground": "#026773"
 			}
 		},
 		{
@@ -110,7 +110,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#F25D07"
+				"foreground": "#026773"
 			}
 		},
 		{
@@ -149,14 +149,14 @@
 			"name": "Strings: Escape Sequences",
 			"scope": "constant.character.escape",
 			"settings": {
-				"foreground": "#F25D07"
+				"foreground": "#026773"
 			}
 		},
 		{
 			"name": "Strings: Regular Expressions",
 			"scope": "string.regexp",
 			"settings": {
-				"foreground": "#EACC86"
+				"foreground": "#026773"
 			}
 		},
 		{
@@ -170,7 +170,7 @@
 			"name": "Punctuation",
 			"scope": "punctuation",
 			"settings": {
-				"foreground": "#F25D07"
+				"foreground": "#026773"
 			}
 		},
 		{
@@ -234,7 +234,7 @@
 				"entity.name.tag.css"
 			],
 			"settings": {
-				"foreground": "#F25D07"
+				"foreground": "#026773"
 			}
 		},
 		{
@@ -314,21 +314,21 @@
 				"markup.raw"
 			],
 			"settings": {
-				"foreground": "#F25D07"
+				"foreground": "#026773"
 			}
 		},
 		{
 			"name": "Markup: Prompt",
 			"scope": "markup.prompt",
 			"settings": {
-				"foreground": "#F25D07"
+				"foreground": "#026773"
 			}
 		},
 		{
 			"name": "Markup: Heading",
 			"scope": "markup.heading",
 			"settings": {
-				"foreground": "#F25D07"
+				"foreground": "#026773"
 			}
 		},
 		{
@@ -356,7 +356,7 @@
 			"name": "Markup Quote",
 			"scope": "markup.quote",
 			"settings": {
-				"foreground": "#F25D07"
+				"foreground": "#026773"
 			}
 		},
 		{
@@ -392,21 +392,21 @@
 				"meta.separator"
 			],
 			"settings": {
-				"foreground": "#55656e"
+				"foreground": "#434343"
 			}
 		},
 		{
 			"name": "Extra: Diff From",
 			"scope": "meta.diff.header.from-file",
 			"settings": {
-				"foreground": "#55656e"
+				"foreground": "#434343"
 			}
 		},
 		{
 			"name": "Extra: Diff To",
 			"scope": "meta.diff.header.to-file",
 			"settings": {
-				"foreground": "#55656e"
+				"foreground": "#434343"
 			}
 		}
 	]
