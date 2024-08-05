@@ -1,8 +1,8 @@
 {
 	"name": "Bosc Pear",
 	"colors": {
-		"editor.background": "#f2e9dd",
-		"editor.foreground": "#F25D07",
+		"editor.background": "#f1eeec",
+		"editor.foreground": "#C09056",
 		"list.activeSelectionIconForeground": "#F25D07"
 	},
 	"tokenColors": [
@@ -46,7 +46,7 @@
 			"name": "Operators",
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#026773"
+				"foreground": "#C09056"
 			}
 		},
 		{
