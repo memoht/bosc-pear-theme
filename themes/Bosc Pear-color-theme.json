@@ -1,8 +1,8 @@
 {
 	"name": "Bosc Pear",
 	"colors": {
-		"editor.background": "#f1eeec",
-		"editor.foreground": "#C09056",
+		"editor.background": "#f1eae6",
+		"editor.foreground": "#999688",
 		"list.activeSelectionIconForeground": "#F25D07"
 	},
 	"tokenColors": [
@@ -87,7 +87,7 @@
 				"support.variable"
 			],
 			"settings": {
-				"foreground": "#026773"
+				"foreground": "#F2BE5C"
 			}
 		},
 		{
@@ -98,7 +98,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#026773"
+				"foreground": "#8C6E5D"
 			}
 		},
 		{
